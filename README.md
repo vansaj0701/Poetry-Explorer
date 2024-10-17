@@ -282,6 +282,9 @@ pip install -r requirements.txt
 ```
 
 2. Clone this repository or download the script
+```
+https://github.com/vansaj0701/Poetry-Explorer.git
+```
 
 
 ## How to Run
